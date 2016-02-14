@@ -21,6 +21,7 @@ Installation
 Dependencies:
 
 * **git 1.7.3** or newer
+* **go 1.5.3** or newer
 
 #### Homebrew
 
